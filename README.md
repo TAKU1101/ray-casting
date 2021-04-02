@@ -5,7 +5,7 @@ Implementation of Ray casting system in c language
 Run the following
 ```shell
 > make
-> . . /cub3d mapfile/def_ok_2.cub
+> ./cub3d mapfile/def_ok_2.cub
 ````
 
 Specify the executable file (extension .cub) as the first argument and specify the map structure.
