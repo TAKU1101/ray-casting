@@ -2,6 +2,10 @@
 
 Implementation of Ray casting system in c language
 
+https://user-images.githubusercontent.com/54760425/190325835-effeef6f-ba09-42c2-9a31-e99674b6f488.mp4
+
+## Usage
+
 Run the following
 ```shell
 > make
